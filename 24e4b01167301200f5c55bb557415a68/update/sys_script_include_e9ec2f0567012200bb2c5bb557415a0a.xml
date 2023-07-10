@@ -143,7 +143,7 @@ LoanerSetup.prototype = {
  	* _nextModuleOlder - find the next module # in increments of 100
  	*
  	* @param - none
- 	* @return integer - module order number
+ 	* @return integer - module order numberr
  	*
  	*/
 	_nextModuleOrder : function() {
@@ -181,13 +181,13 @@ LoanerSetup.prototype = {
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-08-03 22:43:50</sys_created_on>
         <sys_id>e9ec2f0567012200bb2c5bb557415a0a</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>38</sys_mod_count>
         <sys_name>LoanerSetup</sys_name>
         <sys_package display_value="Loaner Request" source="x_loaner">24e4b01167301200f5c55bb557415a68</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Loaner Request">24e4b01167301200f5c55bb557415a68</sys_scope>
         <sys_update_name>sys_script_include_e9ec2f0567012200bb2c5bb557415a0a</sys_update_name>
-        <sys_updated_by>admin_SHARE</sys_updated_by>
-        <sys_updated_on>2016-08-04 19:51:26</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 13:51:17</sys_updated_on>
     </sys_script_include>
 </record_update>
